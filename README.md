@@ -19,6 +19,9 @@
 [![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
+[![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+
+
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
