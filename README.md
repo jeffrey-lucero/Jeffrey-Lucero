@@ -32,13 +32,10 @@
 
 ## Database Management  
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-  
+    
   [![Nodejs](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
   [![Php](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
   
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## Scientific Computing  
@@ -46,7 +43,6 @@
 
    [![matlab](https://skillicons.dev/icons?i=matlab&theme=dark)](https://skillicons.dev)
   
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
 </p>
 
 ## Desktop App Development:
@@ -66,9 +62,8 @@
 
 ## Tools & DevOps  
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vercel)](https://skillicons.dev)
 
-   [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+  [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
    [![postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
    [![vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)
 
