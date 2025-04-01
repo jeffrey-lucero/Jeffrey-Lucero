@@ -22,23 +22,21 @@
 
 ## Back-end Development  
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py&theme=dark)](https://skillicons.dev)
 
   [![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
   [![Php](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
   [![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
   [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ## Database Management  
 <p align="center">
   [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+  
+  [![Nodejs](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+  [![Php](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
+  
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
