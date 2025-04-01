@@ -43,28 +43,35 @@
 
 ## Scientific Computing  
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+
+   [![matlab](https://skillicons.dev/icons?i=matlab&theme=dark)](https://skillicons.dev)
+  
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
 </p>
 
 ## Desktop App Development:
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+  [![visualstudio](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://skillicons.dev)
+
 </p>
 
 ## Content Management Systems (CMS)  
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+   [![wordpress](https://skillicons.dev/icons?i=wordpress&theme=dark)](https://skillicons.dev)
+   
+
 </p>
 
 ## Tools & DevOps  
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=git,postman,)](https://skillicons.dev)
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vercel)](https://skillicons.dev)
+
+   [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+   [![postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
+   [![vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://skillicons.dev)
+
 </p>
 
 ## Low-Code Development & Automation Tools  
