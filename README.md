@@ -12,10 +12,12 @@
 
 ## Front-end Development  
 <p align="center">
+  
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
 [![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 [![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+
 </p>
 
 ## Back-end Development  
