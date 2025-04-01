@@ -13,6 +13,11 @@
 ## Front-end Development  
 <p align="center">
   [![My Skills](https://skillicons.dev/icons?i=vite,vue,react,nextjs&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vite,vue,react,nextjs&theme=dark)](https://skillicons.dev)
+
+[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
+[![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
+
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
