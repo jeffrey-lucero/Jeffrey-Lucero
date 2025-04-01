@@ -12,25 +12,22 @@
 
 ## Front-end Development  
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=vite,vue,react,nextjs&theme=dark)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=vite,vue,react,nextjs&theme=dark)](https://skillicons.dev)
-
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
 [![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-
 [![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
-
-
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ## Back-end Development  
 <p align="center">
   [![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py&theme=dark)](https://skillicons.dev)
+
+  [![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+  [![Php](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
+  [![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+
+  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
