@@ -65,7 +65,7 @@
 </p>
 
 ## Low-Code Development & Automation Tools  
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Power_Automate-0081CB?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Apps-0061F2?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
