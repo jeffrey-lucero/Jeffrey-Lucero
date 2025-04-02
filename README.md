@@ -88,10 +88,10 @@
 
 ### 📫 Connect With Me
 
-<p align="center">
+
   <a href="https://www.instagram.com/jepoooyy_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jeffrey-lucero-7b8224127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jeffrey-lucero"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
 
 
